@@ -1,5 +1,7 @@
 # http-face-spring-boot-starter
-http face spring boot starter
+
+> http-face-spring-boot-starter 是 http-face 针对 springboot 整合方案
+
 [Demo](https://github.com/TwoKe945/xiaobei_heath)
 
 maven 引入依赖
